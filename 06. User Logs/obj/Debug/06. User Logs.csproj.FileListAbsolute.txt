@@ -1,0 +1,7 @@
+C:\Users\mitak\source\repos\Dictionaries, Lambda and LINQ - Exercises\06. User Logs\bin\Debug\_06.User_Logs.exe.config
+C:\Users\mitak\source\repos\Dictionaries, Lambda and LINQ - Exercises\06. User Logs\bin\Debug\_06.User_Logs.exe
+C:\Users\mitak\source\repos\Dictionaries, Lambda and LINQ - Exercises\06. User Logs\bin\Debug\_06.User_Logs.pdb
+C:\Users\mitak\source\repos\Dictionaries, Lambda and LINQ - Exercises\06. User Logs\obj\Debug\06. User Logs.csprojResolveAssemblyReference.cache
+C:\Users\mitak\source\repos\Dictionaries, Lambda and LINQ - Exercises\06. User Logs\obj\Debug\06. User Logs.csproj.CoreCompileInputs.cache
+C:\Users\mitak\source\repos\Dictionaries, Lambda and LINQ - Exercises\06. User Logs\obj\Debug\_06.User_Logs.exe
+C:\Users\mitak\source\repos\Dictionaries, Lambda and LINQ - Exercises\06. User Logs\obj\Debug\_06.User_Logs.pdb

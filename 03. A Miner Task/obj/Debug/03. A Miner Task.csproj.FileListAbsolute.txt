@@ -1,0 +1,7 @@
+C:\Users\mitak\source\repos\Dictionaries, Lambda and LINQ - Exercises\03. A Miner Task\bin\Debug\_03.A_Miner_Task.exe.config
+C:\Users\mitak\source\repos\Dictionaries, Lambda and LINQ - Exercises\03. A Miner Task\bin\Debug\_03.A_Miner_Task.exe
+C:\Users\mitak\source\repos\Dictionaries, Lambda and LINQ - Exercises\03. A Miner Task\bin\Debug\_03.A_Miner_Task.pdb
+C:\Users\mitak\source\repos\Dictionaries, Lambda and LINQ - Exercises\03. A Miner Task\obj\Debug\03. A Miner Task.csprojResolveAssemblyReference.cache
+C:\Users\mitak\source\repos\Dictionaries, Lambda and LINQ - Exercises\03. A Miner Task\obj\Debug\03. A Miner Task.csproj.CoreCompileInputs.cache
+C:\Users\mitak\source\repos\Dictionaries, Lambda and LINQ - Exercises\03. A Miner Task\obj\Debug\_03.A_Miner_Task.exe
+C:\Users\mitak\source\repos\Dictionaries, Lambda and LINQ - Exercises\03. A Miner Task\obj\Debug\_03.A_Miner_Task.pdb

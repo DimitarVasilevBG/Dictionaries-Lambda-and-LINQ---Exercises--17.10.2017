@@ -1,0 +1,6 @@
+C:\Users\mitak\source\repos\Dictionaries, Lambda and LINQ - Exercises\04. Fix Emails\bin\Debug\_04.Fix_Emails.exe.config
+C:\Users\mitak\source\repos\Dictionaries, Lambda and LINQ - Exercises\04. Fix Emails\bin\Debug\_04.Fix_Emails.exe
+C:\Users\mitak\source\repos\Dictionaries, Lambda and LINQ - Exercises\04. Fix Emails\bin\Debug\_04.Fix_Emails.pdb
+C:\Users\mitak\source\repos\Dictionaries, Lambda and LINQ - Exercises\04. Fix Emails\obj\Debug\04. Fix Emails.csproj.CoreCompileInputs.cache
+C:\Users\mitak\source\repos\Dictionaries, Lambda and LINQ - Exercises\04. Fix Emails\obj\Debug\_04.Fix_Emails.exe
+C:\Users\mitak\source\repos\Dictionaries, Lambda and LINQ - Exercises\04. Fix Emails\obj\Debug\_04.Fix_Emails.pdb
